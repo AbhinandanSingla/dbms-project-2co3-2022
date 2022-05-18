@@ -1,3 +1,6 @@
+-- Set Server OUTPUT On for proper printing --
+SET SERVEROUTPUT ON
+
 -- PL/SQL Queries --
 Declare
 P_Firstname Passenger.Firstname%type;
